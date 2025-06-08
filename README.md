@@ -118,6 +118,12 @@ Pull requests and suggestions are welcome! If you add a new algorithm or visuali
 
 ---
 
+## 📝 License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
 ## 📸 Screenshots
 
 ![Algoritm Visualizer](image.png)
